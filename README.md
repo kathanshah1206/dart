@@ -9,11 +9,6 @@ Online Grocery Store E-commerce Web Application built using MERN Stack. It has a
 :star: **Check Live Demo here:** https://onlinegroceryapp.herokuapp.com/
 
 
-- If you've less time to check demo, instead of creating account, use my credentials to login: <br>
-**Email id:** test@mail.com <br> **Password:** Test@123
-
-- During cart checkout, you can use the below dummy PayPal Credentials to complete payment: <br>
-**Email id:** sb-aggby3632822@business.example.com <br> **Password:** bj8$Kd$O
 
 #### `Tech Stack Used:`
 
